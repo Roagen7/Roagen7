@@ -10,6 +10,7 @@
    - physics :boom: <br />
    - BSD and Linux :file_folder:
 </details>
+
 <p> 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </p>
