@@ -11,6 +11,7 @@
    - maths :chart_with_upwards_trend:<br/>
    - physics :boom: <br />
    - BSD and Linux :file_folder: <br />
+   - git :fork_and_knife:
  
 </details>
 <br />
