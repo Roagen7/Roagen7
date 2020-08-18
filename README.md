@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
 ## hi
 <img src="https://cdn-images-1.medium.com/max/1200/1*0ei2MOQxAzF7krm-v60wnQ.jpeg" width="50" height="50">
 <details>
