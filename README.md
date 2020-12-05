@@ -5,7 +5,7 @@
 
 <details>
  <summary><strong>Learning...</strong></summary>
-   - javascript(node) && typescript :coffee: <br/>
+   - typescript :coffee: <br/>
    - C++ :computer:<br/>
    - algorithms :loop:<br/>
    - maths :chart_with_upwards_trend:<br/>
