@@ -4,14 +4,11 @@
 
 
 <details>
- <summary><strong>Learning...</strong></summary>
-   - typescript :coffee: <br/>
-   - C++ :computer:<br/>
-   - algorithms :loop:<br/>
-   - maths :chart_with_upwards_trend:<br/>
-   - physics :boom: <br />
-   - BSD and Linux :file_folder: <br />
-   - git :fork_and_knife:
+ <summary><strong>Hobbies...</strong></summary>
+   - astronomy :coffee: <br/>
+   - programming :computer:<br/>
+   - sci-fi :loop:<br/>
+
  
 </details>
 <br />
