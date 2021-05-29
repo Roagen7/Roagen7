@@ -6,7 +6,7 @@
 <details>
  <summary><strong>Hobbies...</strong></summary>
    - astronomy :coffee: <br/>
-   - programming :computer:<br/>
+   - cellular automata :computer:<br/>
    - sci-fi :loop:<br/>
 
  
