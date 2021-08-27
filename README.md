@@ -4,7 +4,11 @@
 
 
 <details>
- <summary><strong>Hobbies...</strong></summary>
+ <summary><strong>More...</strong></summary>
+ 
+ 
+![Metrics](https://metrics.lecoq.io/Roagen7?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Europe%2FWarsaw) 
+ <strong>Hobbies...</strong>
    - astronomy :coffee: <br/>
    - cellular automata :computer:<br/>
    - sci-fi :loop:<br/>
