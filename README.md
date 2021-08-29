@@ -1,4 +1,4 @@
-<img src="https://image.flaticon.com/icons/png/512/74/74897.png" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1024px-Icon-Vim.svg.png" width="50" height="50"><br />
+<img src="https://image.flaticon.com/icons/png/512/74/74897.png" width="50" height="50"><br />
 
 
 
