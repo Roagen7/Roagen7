@@ -1,5 +1,7 @@
-<img src="https://image.flaticon.com/icons/png/512/74/74897.png" width="50" height="50"><br />
-
+<!-- <img src="https://image.flaticon.com/icons/png/512/74/74897.png" width="50" height="50"><br /> -->
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
 
 
